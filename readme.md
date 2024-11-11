@@ -1,5 +1,5 @@
 ## This is a test repository.
-##Test
+##　Test
 #Test
 参考にしたWebページ
 GitHubで共同開発のためのチュートリアル
